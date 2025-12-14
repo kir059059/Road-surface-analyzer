@@ -9,6 +9,7 @@ python -m venv venv
 
 2. Активировать его
 venv\Scripts\activate # Windows
+
 source venv/bin/activate # Linux
 
 Если выводит ошибку:

@@ -29,4 +29,5 @@ FullyQualifiedErrorId : UnauthorizedAccess
 - На вопрос отвечаем - A
 
 3. Прописать в терминал среды разработки
+
 pip install opencv-python matplot
